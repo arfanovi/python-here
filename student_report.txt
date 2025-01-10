@@ -1,0 +1,9 @@
+Student: Ovi
+  Subject 1: Score = 80, Grade = B
+  Subject 2: Score = 90, Grade = A
+  Subject 3: Score = 88, Grade = B
+  Subject 4: Score = 92, Grade = A
+Average Score: 87.50
+Overall Grade: B
+Status: Pass
+------------------------------
